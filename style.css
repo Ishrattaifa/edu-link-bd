@@ -1,7 +1,30 @@
+
+
 .card img{
     width: 100%;
     hight: 100%;
     object-fit: cover;
+}
+.bg-primary-blue{
+    background-color: #289BDE;
+}
+.btn-primary-blue{
+    background-color: #289BDE;
+}
+.btn-outline-primary-blue{
+   border-color: #289BDE;
+}
+.btn-outline-primary-blue:hover{
+   background-color: #289BDE;
+   color: white;
+}
+
+.fa-solid-gray{
+    color: #D2D2D2
+    ;
+}
+.fa-star{
+    color: #F59E0B;
 }
 
 .company{
