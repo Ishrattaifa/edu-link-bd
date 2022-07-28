@@ -4,7 +4,10 @@
     object-fit: cover;
 }
 
-
+.company{
+    width: auto;
+    height: 25px;
+}
 
 footer,footer a{
     color: rgb(194, 193, 193) ;
