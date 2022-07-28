@@ -3,3 +3,15 @@
     hight: 100%;
     object-fit: cover;
 }
+
+
+
+footer,footer a{
+    color: rgb(194, 193, 193) ;
+    gap: 30px;
+}
+a:hover{
+    color: white;
+    transition: .5s;
+}
+
