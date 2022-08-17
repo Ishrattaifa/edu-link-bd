@@ -1,9 +1,25 @@
-
-
 .card img{
     width: 100%;
     hight: 100%;
     object-fit: cover;
+}
+.slider{
+    background-image: linear-gradient(rgba(0,0,0,.9),rgba(0,0,0,.5)),url("images/cover/cover-1.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    min-height: min(90vh,50vw);
+}
+.slider-1{
+    background-image: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)),url("images/cover/cover-2.jpg");
+}
+.slider-2{
+    background-image: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)),url("images/cover/cover-3.jpg");
+}
+
+.explore{
+    background-color: #F4FAFD
+    ;
 }
 .bg-primary-blue{
     background-color: #289BDE;
